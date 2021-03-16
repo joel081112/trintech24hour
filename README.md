@@ -1,10 +1,18 @@
+# Some details
+
+This project was made for Trintech in a 24 hour challenge that helped me get my current job.
+
+This was first created in Django bootstrap v5 and tranffered over to Angular for version 4.6.
+
+Some of the code will not work because of this change in css file
+
 # TestApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.1.
 
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/` or `http://127.0.0.1:4200/`. The app will automatically reload if you change any of the source files.
 
 ## Code scaffolding
 
