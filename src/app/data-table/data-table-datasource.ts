@@ -32,6 +32,7 @@ const EXAMPLE_DATA: DataTableItem[] = [
   {actions: 18, name: 'Argon'},
   {actions: 19, name: 'Potassium'},
   {actions: 20, name: 'Calcium'},
+  {actions: 21, name: 'Argon'},
 ];
 
 /**
