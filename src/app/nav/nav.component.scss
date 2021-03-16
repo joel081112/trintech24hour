@@ -1,0 +1,78 @@
+
+/* Trintech stuff*/
+.bg-f6 {
+    background: #f6f6f6;
+}
+
+.text-light-green {
+    color: #008578;
+}
+
+.text-lighter-green {
+    color: #1e9388;
+}
+
+.border-purple {
+    border-left: 5px solid #910048;
+}
+
+.bg-purple {
+    background: #910048;
+}
+
+.navbar.example{
+    padding-left: 5px;
+}
+
+.custom-toggler.navbar-toggler {
+    padding: 0;
+}
+.custom-toggler .navbar-toggler-icon {
+    
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='white' stroke-width='1' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+.custom-nav-link.nav-link{
+    color: #006eb0;
+    background-color: #f6f6f6;
+}
+.custom-nav-tabs.nav-tabs .nav-link.active{
+    background: #f6f6f6;
+    border-top: 3px solid #008578;
+    border-left: 1px solid #008578;
+    border-right: 1px solid #008578;
+    border-bottom: 0;
+}
+.custom-nav-tabs.nav-tabs .nav-link{
+    border-bottom: 1px solid #008578;
+}
+.custom-nav-tabs.nav-tabs{
+    border-bottom: 1px solid #008578;
+}
+.match-rules{
+    margin-right: 20px;
+}
+.shadow-top{
+    box-shadow: inset 0px 10px 10px -10px  #000000;
+}
+.w-15{
+    width:15%;
+    height:auto;
+}
+.main-drop {
+    background-color: Transparent;
+    background-repeat: no-repeat;
+    border: none;
+    cursor: pointer;
+    overflow: hidden;
+    outline: none;
+}
+.h-500 {
+    height: 1000px;
+}
+
+.row.none {
+    margin-right: 0;
+}
+
+
+/* end Trintech stuff*/
