@@ -1,3 +1,11 @@
+# Some details
+
+This project was made for Trintech in a 24 hour challenge that helped me get my current job.
+
+This was first created in Django bootstrap v5 and tranffered over to Angular for version 4.6.
+
+Some of the code will not work because of this change in css file
+
 # TestApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.1.
